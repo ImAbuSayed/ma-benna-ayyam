@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma Benna Ayyam
+
+This log tracks the cryptographic history and versioning for the song **Ma Benna Ayyam** (ma-benna-ayyam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:04:51.065223 | `v1` | `31309a2ad764dc1d38b3a7eeeebd9f25e7356beb4733ec92b33b7fffe386d8ac` | `373dfc320ee4b741ff673f2feb65d37ad104f753404eb8af3fd705b1c7fc2d71` | `2026-05-09_ma-benna-ayyam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
